@@ -25,6 +25,7 @@ There is a list of all matters below:
 
 ### Mediums
 - [TB-Linter](https://github.com/teambition/TB-Linter)
+- [TB-Brand](https://github.com/teambition/TB-Brand)
 - [Teambition Standards](https://github.com/teambition/standard)
 
 ## Benefits

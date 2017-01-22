@@ -14,14 +14,14 @@ There is a list of all matters below:
 
 ### Molecules
 - [TB-Styles](https://github.com/teambition/TB-Styles)
-- [TB-MStyles](https://github.com/teambition/TB-MStyles) [Todo]
+- TB-MStyles [Todo]
 
 ### Materials
-- [TB-UIKit](https://github.com/teambition/TB-UIKit) **[WIP]**
-- [TB-MUIKit](https://github.com/teambition/TB-MUIKit) [Todo]
+- TB-UIKit [Todo]
+- TB-MUIKit [Todo]
 
 ### Goods
-- [TB-MViews](https://github.com/teambition/TB-MViews) [Todo]
+- TB-MViews [Todo]
 
 ### Mediums
 - [TB-Linter](https://github.com/teambition/TB-Linter)
@@ -35,7 +35,7 @@ We really hope that you get very inspired by our experiences and save some time 
 
 ## Timeline
 ### 2016
-- 07-26: The plan changed suddenly, [TB-UIKit](https://github.com/teambition/TB-UIKit) was top priority. **[Current Stage]**
+- 07-26: The plan changed suddenly, TB-UIKit was top priority. **[Current Stage]**
 - 06-30: Project summary in the first half-year, not enough spare time to work on it : (
 - 03-28: The first molecule ([TB-Styles](https://github.com/teambition/TB-Styles)) was synthesized.
 - 02-22: Got an idea for new UI when Sune met Jaky.
